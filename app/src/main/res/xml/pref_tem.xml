@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListPreference
+        android:title="@string/Temperature_Title"
+        android:key="@string/Temperature_key"
+        android:defaultValue="@string/Celsius"
+        android:entries="@array/Temperature"
+        android:entryValues="@array/Temperature_values"
+        />
+
+
+</PreferenceScreen>

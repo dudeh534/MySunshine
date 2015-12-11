@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Temperature">
+        <item>@string/Celsius</item>
+        <item>@string/Degrees_Fahrenheit</item>
+    </string-array>
+    <string-array name="Temperature_values">
+        <item>@string/Celsius_values</item>
+        <item>@string/Degrees_Fahrenheit_values</item>
+    </string-array>
+
+</resources>
